@@ -1,0 +1,20 @@
+/* icon font color #fd00c3 */
+
+/* global */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    border: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.content3{
+    background-color: blue;
+    height: 30em;
+}
